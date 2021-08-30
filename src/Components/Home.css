@@ -1,0 +1,24 @@
+.Google span:nth-child(1){
+    color: blue;
+}
+.Google span:nth-child(2){
+    color: red;
+}
+.Google span:nth-child(3){
+    color: rgb(255, 208, 0);
+}
+.Google span:nth-child(4){
+    color: blue;
+}
+.Google span:nth-child(5){
+    color: green;
+}
+.Google span:nth-child(6){
+    color: red;
+}
+
+.Google span{
+    font-size: 3em;
+    font-weight: 400;
+    font-family: system-ui;
+}
